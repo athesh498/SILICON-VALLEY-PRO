@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+button{
+  padding: 15px;
+  background-color: black;
+  transition-duration: 0.4s;
+  border: none;
+  color: white;
+  /* width: 300px; */
+  border-radius: 500px;
+}
+button:hover{
+  background-color: white;
+  color: black;
+}
